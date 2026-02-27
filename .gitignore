@@ -1,0 +1,17 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+venv/
+env/
+.env
+
+# 个人生成的本地追踪数据（不要传到 GitHub 上）
+data/
+godmode_data.json
+
+# 编辑器/IDE 配置
+.vscode/
+.idea/
