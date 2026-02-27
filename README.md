@@ -1,6 +1,11 @@
 # GodMode Tracker (Cyberpunk System Monitor)
 
 GodMode Tracker 是一款基于 PyQt5 开发的极客风（Cyberpunk Neon）桌面数据监控与行为分析小工具。它通过监听底层硬件事件，实时可视化你的工作节律、键盘热力图以及鼠标运行轨迹。
+## 🎨 项目截图
+
+### 主界面
+
+![主界面](view.png)
 
 ## ✨ 核心特性
 
@@ -33,9 +38,5 @@ GodMode Tracker 是一款基于 PyQt5 开发的极客风（Cyberpunk Neon）桌�
    python main.py
    ```
 
-## 🎨 项目截图
 
-### 主界面
-
-![主界面](godmode_tracker\data\view.png)
 
